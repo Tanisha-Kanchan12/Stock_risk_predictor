@@ -8,7 +8,7 @@ This project simulates a **real-world data science workflow**:
 - Clustering model building
 - Business-focused Streamlit app
 # 🔗 Live App
-## ➡️ Streamlit App Link: [Add your deployed Streamlit app link here]
+## ➡️ Streamlit App Link:(https://stock-risk-predictor.streamlit.app/)
 # 🛠 Tools & Technologies Used
 - **Python**
 - **Pandas, NumPy**
