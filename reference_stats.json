@@ -1,0 +1,69 @@
+{
+  "cluster_medians": {
+    "0": {
+      "Current_Price": 38.64390777600418,
+      "Price_Change": 13.195105312676308,
+      "Volatility": 76.46570925430083,
+      "ROE": 16.893,
+      "Cash_Ratio": 71.4117800705237,
+      "Net_Cash_Flow": 139812242.46505362,
+      "Net_Income": 261032581.14084265,
+      "Earnings_Per_Share": 0.7930672268907563,
+      "Estimated_Shares_Outstanding": 330884740.0,
+      "P/E_Ratio": 48.76533,
+      "P/B_Ratio": 7.5355945
+    },
+    "1": {
+      "Current_Price": 84.66000366210938,
+      "Price_Change": 5.157450651964203,
+      "Volatility": 5.617988106421366,
+      "ROE": 12.353,
+      "Cash_Ratio": 9.704203425012974,
+      "Net_Cash_Flow": 768249984.0,
+      "Net_Income": 1080999936.0,
+      "Earnings_Per_Share": 3.39,
+      "Estimated_Shares_Outstanding": 291895799.0,
+      "P/E_Ratio": 25.3217,
+      "P/B_Ratio": 2.7277248
+    },
+    "2": {
+      "Current_Price": 147.81500244140625,
+      "Price_Change": 3.1846922446917616,
+      "Volatility": 9.905008641156858,
+      "ROE": 20.9439995,
+      "Cash_Ratio": 18.37626204360221,
+      "Net_Cash_Flow": 5527500032.0,
+      "Net_Income": 7221000192.0,
+      "Earnings_Per_Share": 6.45,
+      "Estimated_Shares_Outstanding": 1277986248.5,
+      "P/E_Ratio": 22.310225,
+      "P/B_Ratio": 4.0111133
+    },
+    "3": {
+      "Current_Price": 407.2000122070313,
+      "Price_Change": 11.323062175844887,
+      "Volatility": 24.46244610465532,
+      "ROE": 49.576,
+      "Cash_Ratio": 23.712043671102013,
+      "Net_Cash_Flow": 1870625024.0,
+      "Net_Income": 2090000000.0,
+      "Earnings_Per_Share": 12.16,
+      "Estimated_Shares_Outstanding": 214643903.0,
+      "P/E_Ratio": 32.575653,
+      "P/B_Ratio": 16.979328
+    }
+  },
+  "overall_median": {
+    "Current_Price": 111.83999633789062,
+    "Price_Change": 6.870324151621367,
+    "Volatility": 10.651605090903978,
+    "ROE": 16.986,
+    "Cash_Ratio": 17.31122985283812,
+    "Net_Cash_Flow": 986047232.0,
+    "Net_Income": 1216999936.0,
+    "Earnings_Per_Share": 3.78,
+    "Estimated_Shares_Outstanding": 338947841.0,
+    "P/E_Ratio": 28.902384,
+    "P/B_Ratio": 4.4705467
+  }
+}
